@@ -1,5 +1,3 @@
 hello everyone
 
 some text here
-
-something
